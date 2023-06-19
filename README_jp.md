@@ -1,9 +1,9 @@
-<h1> Ansible Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div></h1>
+<h1> Ansible デッキファインダー<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">edit</a>]</div></h1>
 <p><a href="https://ansible.github.io/slides">View on website</a></p>
 
-- [General](#general)
-- [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
-- [Edge Automation](#edge-automation)
+- [一般](#一般)
+- [EDA - イベントドリブン Ansible](#eda---event-driven-ansible)
+- [Edge オートメーション](#edge-オートメーション)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
   - [Public Cloud](#public-cloud)
   - [On Cloud](#on-cloud)
@@ -14,35 +14,35 @@
 - [Infrastructure Automation](#infrastructure-automation)
 - [Security Automation](#security-automation)
 
-# General
+# 一般
 
 <table>
 <thead>
 <tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
+<th>スライドデッキ</th>
+<th>Red Hat 社員用</th>
+<th>RHCC リンク (社員及びパートナー用)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Technical Roadmap</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1hwzPck-T8tldzNH1nDHanmRU3SV6Qm3a0yy_mXTbNlE/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">Content Center</a></td>
+<td>テクニカルロードマップ</td>
+<td><a target="_blank" href="">Google Source</a></td>
+<td><a target="_blank" href="">Content Center</a></td>
 </tr>
 <tr>
 <td>Technical Deck</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1sa_O12EIRG-fdChArYJf9HZe6wKDfqjnIAiH3udL39s/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">Content Center</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1J3OyknrSWu49U1peEXGcj_EarFACJZjx_Sb4DhOlHJU/edit?usp=drive_link">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fef5f002-63e7-415c-9c0a-595bb28d6c18">Content Center</a></td>
 </tr>
 <tr>
 <td>AE Level 1 Pitch Deck</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1-yTlKfJyfqCNrD1P5l17GeFeXaMkrI6gIS6Qr7m4fo4/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=6096daa0-76fc-4690-801c-245e8f1f7ecd">Content Center</a></td>
+<td><a target="_blank" href="">Google Source</a></td>
+<td><a target="_blank" href="">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Automation Platform: The Value of the Subscription</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1KabcO3oSy_cSwqFy5E6VQN2kAWYiSxfS823uuA9eOi0/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
