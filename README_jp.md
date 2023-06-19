@@ -1,4 +1,4 @@
-<h1> Ansible デッキファインダー<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">edit</a>]</div></h1>
+<h1> Ansible デッキファインダー<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">編集</a>]</div></h1>
 <p><a href="https://ansible.github.io/slides">View on website</a></p>
 
 - [一般](#一般)
