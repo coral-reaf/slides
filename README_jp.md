@@ -27,7 +27,7 @@
 <tbody>
 <tr>
 <td>テクニカルロードマップ</td>
-<td><a target="_blank" href="">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1-QU4vsbJPTw3iobJy84TdpWoLv9KbTZQ_joUuCWfJgs/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="">Content Center</a></td>
 </tr>
 <tr>
