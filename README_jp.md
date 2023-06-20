@@ -36,7 +36,7 @@
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fef5f002-63e7-415c-9c0a-595bb28d6c18">Content Center</a></td>
 </tr>
 <tr>
-<td>AE レベルl ピッチデッキ</td>
+<td>AE レベル1 ピッチデッキ</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1ROCPH_M5EVS4W_OfV5g1rNki_eVzVCTzfZaW58sSRJQ/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="">Content Center</a></td>
 </tr>
