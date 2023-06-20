@@ -1,4 +1,4 @@
-<h1> Ansible 関連資料<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">編集</a>]</div></h1>
+<h1> Ansible 資料一覧<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">編集</a>]</div></h1>
 <p><a href="https://ansible.github.io/slides">本サイト</a></p>
 
 - [一般](#一般)
@@ -114,7 +114,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </tbody>
 </table>
 
-# Edge Automation
+# エッジの自動化
 
 <table>
 <thead>
@@ -143,7 +143,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </tbody>
 </table>
 
-# Hybrid Cloud Automation
+# ハイブリッドクラウドの自動化
 
 <table>
 <thead>
@@ -163,7 +163,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </table>
 
 
-## Public Cloud
+## パブリッククラウド
 
 <div id="cloud-use-cases">
 
@@ -224,7 +224,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 
 </div>
 
-## Cloud Native
+## クラウドネイティブ
 
 <div id="cloud-use-cases">
 
@@ -251,7 +251,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </table>
 </div>
 
-## Private Cloud - VMware
+## プライべーどクラウド - VMware
 
 <div id="cloud-use-cases">
 
@@ -301,7 +301,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 
 
 
-# Network Automation
+# ネットワークの自動化
 
 <table>
 <thead>
@@ -330,7 +330,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </tbody>
 </table>
 
-# Infrastructure Automation
+# インフラの自動化
 
 <table>
 <thead>
@@ -359,7 +359,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </tbody>
 </table>
 
-# Security Automation
+# セキュリティの自動化
 
 <table>
 <thead>
