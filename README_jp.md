@@ -4,15 +4,15 @@
 - [一般](#一般)
 - [EDA - イベントドリブン Ansible](#eda---イベントドリブン-ansible)
 - [Edge オートメーション](#edge-オートメーション)
-- [ハイブリットクラウドの自動化](#hybrid-cloud-automation)
-  - [Public Cloud](#public-cloud)
-  - [On Cloud](#on-cloud)
-  - [Cloud Native](#cloud-native)
-  - [Private Cloud - VMware](#private-cloud---vmware)
+- [ハイブリットクラウドの自動化](#ハイブリッドクラウドの自動化)
+  - [パブリッククラウド](#パブリッククラウド)
+  - [オンクラウド](#オンクラウド)
+  - [クラウドネイティブ](#クラウドネイティブ)
+  - [プライベートクラウド - VMware](#プライベートクラウド---vmware)
 - [Lightspeed AI](#lightspeed-ai)
-- [Network Automation](#network-automation)
-- [Infrastructure Automation](#infrastructure-automation)
-- [Security Automation](#security-automation)
+- [ネットワークの自動化](#ネットワークの自動化)
+- [インフラの自動化](#インフラの自動化)
+- [セキュリティの自動化](#security-automation)
 
 # 一般
 
@@ -21,7 +21,7 @@
 <tr>
 <th>スライドデッキ</th>
 <th>Red Hat 社員用</th>
-<th>RHCC リンク (社員及びパートナー用)</th>
+<th>RHCC リンク (Red Hat Internal Use)</th>
 </tr>
 </thead>
 <tbody>
