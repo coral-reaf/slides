@@ -57,7 +57,7 @@ Unlock the Business Value of IT Automation (英語版)</td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>IDC 製作 ROI 計算ツール: 
+<td>ROI 計算ツール(IDC 製作): 
 AAP によるITオートメーションのビジネス価値とインパクトの特定と算出</td>
 <td><a target="_blank" href="https://redhatansibleroi.com/">https://redhatansibleroi.com/</a>
 and <a target="_blank" href="https://docs.google.com/presentation/d/1dIze8IHgspD2PT-yaTpzPuYxfk3ZoeZZUgqZ2DDUbKM/edit?usp=sharing">Google Source</a></td>
@@ -65,14 +65,14 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1dIze8IHgspD
 </tr>
 <tr>
 <td>簡易 Ansible 時間/コストセービングツール: 
-Use the Red Hat portal tooling to determine high level time and cost savings</td>
+Red Hatポータルツールを使用したハイレベルな時間およびコストの削減</td>
 <td><a target="_blank" href="https://www.redhat.com/savetime">https://www.redhat.com/savetime</a>
 and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5x6y373G18FB99Tqn3hcyhOBHSAp8BwL4/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
 <td>洗練されたコストセービングスプレッドシート: 
-Red Hatポータルツールを使用したハイレベルな時間およびコストの節約</td>
+スプレッドシートを使用したハイレベルな時間およびコスト削減</td>
 <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1XI3zKIAI4uvLY0rbYDeacatSFj38mIwjng4ZN3Wwvyg/edit?usp=sharing">Spreadsheet Google Source</a>
 and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJIrtQOfNzyDs4wHGQVC-0mlyi8MaSvb-UI/edit?usp=sharing">Deck Google Source</a></td>
 <td>Coming soon!</td>
