@@ -36,24 +36,24 @@
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fef5f002-63e7-415c-9c0a-595bb28d6c18">Content Center</a></td>
 </tr>
 <tr>
-<td>AE Level 1 Pitch Deck</td>
-<td><a target="_blank" href="">Google Source</a></td>
+<td>AE レベルl ピッチデッキ</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1ROCPH_M5EVS4W_OfV5g1rNki_eVzVCTzfZaW58sSRJQ/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="">Content Center</a></td>
 </tr>
 <tr>
-<td>Ansible Automation Platform: The Value of the Subscription</td>
-<td><a target="_blank" href="">Google Source</a></td>
+<td>Ansible Automation Platform: サブスクリプションの価値</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1wFt85sIqBAUE_T1AoY8pLcC5hl_9FDWafUm_d2MX920/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
 <td>Red Hat Insights for Red Hat Ansible Automation Platform</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1G1yExRBdEUFAHPyN6wAJ8deK_obKU5ZKfhYgAqIf6tY/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1s7s0Pw8YuiUyjGCxxQkQ0lutF69d2sXujYDWTXWrxiE/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
 <td>Automation 2.0: 
 Unlock the Business Value of IT Automation</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1ePMYcPPCpmGZZw1spjIlH6VacAc_i3DsQS0ikYnKjGY/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1s7s0Pw8YuiUyjGCxxQkQ0lutF69d2sXujYDWTXWrxiE/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
