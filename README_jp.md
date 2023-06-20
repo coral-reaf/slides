@@ -31,7 +31,7 @@
 <td><a target="_blank" href="">Content Center</a></td>
 </tr>
 <tr>
-<td>Technical Deck</td>
+<td>テクニカルデッキ</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1J3OyknrSWu49U1peEXGcj_EarFACJZjx_Sb4DhOlHJU/edit?usp=drive_link">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fef5f002-63e7-415c-9c0a-595bb28d6c18">Content Center</a></td>
 </tr>
