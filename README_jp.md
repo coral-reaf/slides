@@ -347,17 +347,17 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <tbody>
 <tr>
 <td>Ansible インフラ自動化 - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1e4pttjBe-m3k1_c2DgLxH5PvxfVqmtP5POrQWpZZI60/edit">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1jepKr7iK8_gd8kMZlgjGponFPkiAT_D7ooGh9CLdPZY/">Google Source</a></td>
 <td>Coming Soon!</td>
 </tr>
 <tr>
 <td>Ansible インフラ自動化 - 201</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1GaYUtsjCCpjBiCqLMkxBNuDh4LdJRmfhdeDQRZaGcZw/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1yVG58w4Iq2Py3don2sc3gHXAv1bA-mn1GGsijukqAT0/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
 <td>Ansible インフラ自動化 - 301</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1WjyrSCGnsDugk5A-CTruJV_gD52GTukSXCndZh5TxvE/edit">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1Za7_Gn1NSPdz4AGsZbXXA6JFsw6GFy-UIXJu9wqW_Og/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=58d11f4e-18e1-4244-97c5-394f4aab9dc1">Content Center</a></td>
 </tr>
 </tbody>
@@ -375,15 +375,15 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <tbody>
 <tr>
 <td>Ansible セキュリティ自動化 - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1IC10jlKluqaVtEgYJLE2ldIDiIjQ2loLzTOvBQE-sv0/edit#slide=id.g867136564f_0_0">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1eHZOCBOIj2XoY9zXfqtYjvWsl_WBmqldMpzk4boeJ0I/">Google Source</a></td>
 </tr>
 <tr>
 <td>Ansible セキュリティ自動化 - 201</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1-XOF3F6Je0W3mLf1KJt5a7UFEyU3kogQzqNtNdRNmKc/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1OGJqp3e-_ET_1N_e-wNWu03drKQ17s47UQeGmfWHa80/">Google Source</a></td>
 </tr>
 <tr>
 <td>Ansible セキュリティ自動化 - 301</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1VJf2IPVUTTVfRdXF0OGYDq0Gr0ICq06-5VDHDfpQKWQ/edit?usp=share_link">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1u-xogfBVRJ0GPUetbJSWHKJKPgf94jLeGH1Y47wAZG8/">Google Source</a></td>
 </tr>
 </tbody>
 </table>
