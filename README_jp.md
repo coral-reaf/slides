@@ -20,7 +20,7 @@
 <thead>
 <tr>
 <th>スライドデッキ</th>
-<th>Red Hat (社員用)</th>
+<th>Red Hat Internal (社員用)</th>
 <th>RHCC リンク (社員及びパートナー用) </th>
 </tr>
 </thead>
