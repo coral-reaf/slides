@@ -1,10 +1,10 @@
-<h1> Ansible デッキファインダー<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">編集</a>]</div></h1>
-<p><a href="https://ansible.github.io/slides">View on website</a></p>
+<h1> Ansible 関連資料<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">編集</a>]</div></h1>
+<p><a href="https://ansible.github.io/slides">本サイト</a></p>
 
 - [一般](#一般)
-- [EDA - イベントドリブン Ansible](#eda---event-driven-ansible)
+- [EDA - イベントドリブン Ansible](#eda---イベントドリブン-ansible)
 - [Edge オートメーション](#edge-オートメーション)
-- [Hybrid Cloud Automation](#hybrid-cloud-automation)
+- [ハイブリットクラウドの自動化](#hybrid-cloud-automation)
   - [Public Cloud](#public-cloud)
   - [On Cloud](#on-cloud)
   - [Cloud Native](#cloud-native)
@@ -80,7 +80,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </tbody>
 </table>
 
-# EDA - Event-Driven Ansible
+# EDA - イベントドリブン Ansible
 
 <table>
 <thead>
