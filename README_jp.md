@@ -57,8 +57,8 @@ Unlock the Business Value of IT Automation (英語版)</td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>IDC Built ROI Calculator: 
-Identify and calculate the Business Value and Impact of IT Automation with AAP</td>
+<td>IDC 製作 ROI 計算ツール: 
+AAP によるITオートメーションのビジネス価値とインパクトの特定と算出</td>
 <td><a target="_blank" href="https://redhatansibleroi.com/">https://redhatansibleroi.com/</a>
 and <a target="_blank" href="https://docs.google.com/presentation/d/1dIze8IHgspD2PT-yaTpzPuYxfk3ZoeZZUgqZ2DDUbKM/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
@@ -72,7 +72,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 </tr>
 <tr>
 <td>洗練されたコストセービングスプレッドシート: 
-Use a spreadsheet to determine high level time and cost savings</td>
+Red Hatポータルツールを使用したハイレベルな時間およびコストの節約</td>
 <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1XI3zKIAI4uvLY0rbYDeacatSFj38mIwjng4ZN3Wwvyg/edit?usp=sharing">Spreadsheet Google Source</a>
 and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJIrtQOfNzyDs4wHGQVC-0mlyi8MaSvb-UI/edit?usp=sharing">Deck Google Source</a></td>
 <td>Coming soon!</td>
@@ -92,17 +92,17 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 </thead>
 <tbody>
 <tr>
-<td>Event-Driven Ansible - 101</td>
+<td>イベントドリブン Ansible - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Uf1Y42p8WfQnBQH-5ZjMXzQezdYj2UW6WcDfrbGu1fQ/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Event-Driven Ansible - 201</td>
+<td>イベントドリブン Ansible - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/18FsymQlk8cCBENHsh7NXyqvXtatfGOr8Nl761r1rU4w/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Event-Driven Ansible - 301</td>
+<td>イベントドリブン Ansible - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1xQyUGRGqu-qpjZVRKrJvN3cbVLoFzZ0BP7ED1VOyuX4/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
