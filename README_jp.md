@@ -1,4 +1,4 @@
-<h1> Ansible Automation Platform (AAP) Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">編集</a>]</div></h1>
+<h1> Ansible Automation Platform Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">編集</a>]</div></h1>
 <p><a href="https://ansible.github.io/slides">本サイト</a></p>
 
 - [一般](#一般)
