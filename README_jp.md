@@ -1,5 +1,5 @@
 **Read this in other languages**:
-<br>![uk](images/uk.png) [English](README.md),  ![japan](images/japan.png)[日本語](README_ja.md).
+<br>![uk](images/uk.png) [English](README.md),  ![japan](images/japan.png)[日本語](README_jp.md).
 
 
 <h1> Ansible Automation Platform デッキファインダー<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">編集</a>]</div></h1>
