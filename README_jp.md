@@ -291,8 +291,8 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 </thead>
 <tbody>
 <tr>
-<td>Ansible Lightspeed with IBM Watson Code Assistant</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1ks2S2SJ_zFOFj4JcEHTPdFSXOMQql-TSD9EWShB7Z5k/edit?usp=sharing">Google Source</a></td>
+<td>IBM Watson Code Assistant を利用した Ansible Lightspeed</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/12oaOPa7AM1v1GhfH2FGPUe6CHK3j0OoFI14FTbodkuM/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 </tbody>
