@@ -85,9 +85,9 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <table>
 <thead>
 <tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
+<th>スライドデッキ</th>
+<th>Red Hat Internal (社員用)</th>
+<th>RHCC リンク (社員及びパートナー用) </th>
 </tr>
 </thead>
 <tbody>
