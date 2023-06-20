@@ -46,35 +46,35 @@
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Red Hat Insights for Red Hat Ansible Automation Platform</td>
+<td>Red Hat Insights と Red Hat Ansible Automation Platform</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1s7s0Pw8YuiUyjGCxxQkQ0lutF69d2sXujYDWTXWrxiE/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
 <td>Automation 2.0: 
-Unlock the Business Value of IT Automation</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1s7s0Pw8YuiUyjGCxxQkQ0lutF69d2sXujYDWTXWrxiE/edit?usp=sharing">Google Source</a></td>
+Unlock the Business Value of IT Automation (英語版)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1ePMYcPPCpmGZZw1spjIlH6VacAc_i3DsQS0ikYnKjGY/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
 <td>IDC Built ROI Calculator: 
 Identify and calculate the Business Value and Impact of IT Automation with AAP</td>
 <td><a target="_blank" href="https://redhatansibleroi.com/">https://redhatansibleroi.com/</a>
-and <a target="_blank" href="https://docs.google.com/presentation/d/1-Z2ZT6gg5pPlo9kpmNLf5tnkPOqHfpxRn-zCgtyE7oY/edit?usp=sharing">Google Source</a></td>
+and <a target="_blank" href="https://docs.google.com/presentation/d/1dIze8IHgspD2PT-yaTpzPuYxfk3ZoeZZUgqZ2DDUbKM/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Simple Ansible Time/Cost Saving Tool: 
+<td>簡易 Ansible 時間/コストセービングツール: 
 Use the Red Hat portal tooling to determine high level time and cost savings</td>
 <td><a target="_blank" href="https://www.redhat.com/savetime">https://www.redhat.com/savetime</a>
-and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27EOl6Ym_hIiqPaubzIZ1z7cCkvamm8gn5E/edit?usp=sharing">Google Source</a></td>
+and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5x6y373G18FB99Tqn3hcyhOBHSAp8BwL4/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Sophisticated Savings Spreadsheet: 
+<td>洗練されたコストセービングスプレッドシート: 
 Use a spreadsheet to determine high level time and cost savings</td>
 <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1XI3zKIAI4uvLY0rbYDeacatSFj38mIwjng4ZN3Wwvyg/edit?usp=sharing">Spreadsheet Google Source</a>
-and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27EOl6Ym_hIiqPaubzIZ1z7cCkvamm8gn5E/edit?usp=sharing">Deck Google Source</a></td>
+and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJIrtQOfNzyDs4wHGQVC-0mlyi8MaSvb-UI/edit?usp=sharing">Deck Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 </tbody>
