@@ -1,4 +1,4 @@
-<h1> Ansible Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">編集</a>]</div></h1>
+<h1> Ansible Automation Platform (AAP) Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">編集</a>]</div></h1>
 <p><a href="https://ansible.github.io/slides">本サイト</a></p>
 
 - [一般](#一般)
@@ -57,7 +57,7 @@ Unlock the Business Value of IT Automation (英語版)</td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>ROI 計算ツール(IDC 製作): 
+<td>ROI 計算ツール (IDC 製作) : 
 AAP によるITオートメーションのビジネス価値とインパクトの特定と算出</td>
 <td><a target="_blank" href="https://redhatansibleroi.com/">https://redhatansibleroi.com/</a>
 and <a target="_blank" href="https://docs.google.com/presentation/d/1dIze8IHgspD2PT-yaTpzPuYxfk3ZoeZZUgqZ2DDUbKM/edit?usp=sharing">Google Source</a></td>
