@@ -1,4 +1,4 @@
-**Read this in other languages**:
+**他の言語でもお読みいただけます**:
 <br>![uk](images/uk.png) [English](README.md),  ![japan](images/japan.png)[日本語](README_jp.md).
 
 
