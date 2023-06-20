@@ -107,7 +107,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Architecture Guide</td>
+<td>アーキテクチャーガイド</td>
 <td><a target="_blank" href="https://docs.google.com/document/d/1uX2Z6Do8vj4bBownhZD2bYUoMQUOyvS5WqF5Ng7DGGY/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
@@ -119,24 +119,24 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <table>
 <thead>
 <tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
+<th>スライドデッキ</th>
+<th>Red Hat Internal (社員用)</th>
+<th>RHCC リンク (社員及びパートナー用) </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Ansible Edge Automation - 101</td>
+<td>Ansible エッジ自動化 - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/16GqzO19UR6AxsUS2x8mW3WRZbkDu6rEYEUT6cI7G19I/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Ansible Edge Automation - 201</td>
+<td>Ansible エッジ自動化 - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Zk-25k14yq9uXvh-Z-VOieuR5Ew8tehyH8eFksoKyjs/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Ansible Edge Automation - 301</td>
+<td>Ansible エッジ自動化 - 301</td>
 <td>Coming soon!</td>
 <td>Coming soon!</td>
 </tr>
@@ -148,9 +148,9 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <table>
 <thead>
 <tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
+<th>スライドデッキ</th>
+<th>Red Hat Internal (社員用)</th>
+<th>RHCC リンク (社員及びパートナー用) </th>
 </tr>
 </thead>
 <tbody>
@@ -170,9 +170,9 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <table>
 <thead>
 <tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
+<th>スライドデッキ</th>
+<th>Red Hat Internal (社員用)</th>
+<th>RHCC リンク (社員及びパートナー用) </th>
 </tr>
 </thead>
 <tbody>
@@ -198,9 +198,9 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <table>
 <thead>
 <tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
+<th>スライドデッキ</th>
+<th>Red Hat Internal (社員用)</th>
+<th>RHCC リンク (社員及びパートナー用) </th>
 </tr>
 </thead>
 <tbody>
@@ -231,9 +231,9 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <table>
 <thead>
 <tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
+<th>スライドデッキ</th>
+<th>Red Hat Internal (社員用)</th>
+<th>RHCC リンク (社員及びパートナー用) </th>
 </tr>
 </thead>
 <tbody>
@@ -258,9 +258,9 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <table>
 <thead>
 <tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
+<th>スライドデッキ</th>
+<th>Red Hat Internal (社員用)</th>
+<th>RHCC リンク (社員及びパートナー用) </th>
 </tr>
 </thead>
 <tbody>
@@ -284,9 +284,9 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <table>
 <thead>
 <tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
+<th>スライドデッキ</th>
+<th>Red Hat Internal (社員用)</th>
+<th>RHCC リンク (社員及びパートナー用) </th>
 </tr>
 </thead>
 <tbody>
@@ -306,9 +306,9 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <table>
 <thead>
 <tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
+<th>スライドデッキ</th>
+<th>Red Hat Internal (社員用)</th>
+<th>RHCC リンク (社員及びパートナー用) </th>
 </tr>
 </thead>
 <tbody>
@@ -335,9 +335,9 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <table>
 <thead>
 <tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
+<th>スライドデッキ</th>
+<th>Red Hat Internal (社員用)</th>
+<th>RHCC リンク (社員及びパートナー用) </th>
 </tr>
 </thead>
 <tbody>
@@ -364,8 +364,8 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <table>
 <thead>
 <tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
+<th>スライドデッキ</th>
+<th>Red Hat Internal (社員用)</th>
 </tr>
 </thead>
 <tbody>
