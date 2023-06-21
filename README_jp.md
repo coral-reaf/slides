@@ -131,12 +131,12 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <tbody>
 <tr>
 <td>Ansible エッジ自動化 - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/16GqzO19UR6AxsUS2x8mW3WRZbkDu6rEYEUT6cI7G19I/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1Dpp7Hn4qi-9EFfc3iiq-gXDxrSpDtFq6TJncYB0k7xs/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
 <td>Ansible エッジ自動化 - 201</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1Zk-25k14yq9uXvh-Z-VOieuR5Ew8tehyH8eFksoKyjs/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1Kad_xSV0WdAPGwl5E0XR6x-UZGtw3wWIb1qGLBoLRcw/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
@@ -160,7 +160,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <tbody>
 <tr>
 <td>Hybrid Cloud Automation 101 - Introduction</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1JVXGf23MXoRH3jn7OMHoNp7whBs4q-Tm9CzlRnXracA/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/18GNw9U2iEqS1YyiqgFSOvTxnWGuybQrbOmoWumJpt-U/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3a2738a8-f69b-42b3-bf55-e24b2df1d7ca">Content Center</a></td>
 </tr>
 </tbody>
@@ -182,12 +182,12 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <tbody>
 <tr>
 <td>Ansible Public Cloud  - 201</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1zZC6L-leuVAlwhwrnc8iUdqb0lKuqVh3F4I2oBINgAA/edit?usp=share_link">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1fwiRitEGIoiv5acYtg49lBhmMXl8ZZNaUlpvudjM_2I/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=cd3b67b0-8949-44d6-acac-7dcd3221b77a">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Public Cloud  - 301</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1Z_hG_XCMZiOmytyV4q4v2rncuf2KNH8OFdi1wwdkmiE/edit?usp=share_link">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1Vh3lMYJZFFsJkuupw0NPfbQOfS88O7nPoBUmDqly_d8/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226ef383-7de5-4968-9364-5e5ee2b344bc">Content Center</a></td>
 </tr>
 </tbody>
