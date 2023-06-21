@@ -243,12 +243,12 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <tbody>
 <tr>
 <td>Ansible クラウドネイティブ - 201</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1aSkhjwk4r8N5RJU1Np8-eUl9LK-eN5a1M-6hSAb0Dd0/edit?usp=share_link">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1mr6DwUMlvh13Lk9Ruh_-ILANIPFNXIjZ9kR7shdThhI/">Google Source</a></td>
   <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3b221f1b-fd10-4c94-9961-e0ab4123508d">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible クラウドネイティブ - 301</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1WE5xIDHow0sqi5qFoX9LDGPwM2epERs9aBklVDTUGjQ/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/17irXtCOCmZg9bvhNj1N-XAUlHcl9ea7I9O56sS0UHLU/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2eef02ae-24ef-4e99-a40c-6bf7787c0694">Content Center</a></td>
 </tr>
 </tbody>
@@ -270,12 +270,12 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <tbody>
 <tr>
 <td>Ansible プライベートクラウド - 201</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1Ff6ueze2BHq6PtrdJ5pcw9K4Z7BQQlcEUVIaq1VjUQo/edit?usp=share_link">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1G0N2gcprR_SVKZJk6dBCs5nelBq-nAkOeAHuWVmix0w/">Google Source</a></td>
   <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=bf99e5a3-33e7-49e2-a38d-df8deda4d044">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible プライベートクラウド - 301</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1aMArG9rfWvH3J0Jt53rG8fJemwiShOTxMS48KTM_B6c/edit?usp=share_link">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1rNDTUJaQ0fozuLqIeDEr4BuF1yXpNvqSwXalrV4WO90/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=77b96e31-b4c7-464a-aa00-ec961e357539">Content Center</a></td>
 </tr>
 </tbody>
