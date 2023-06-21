@@ -318,17 +318,17 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <tbody>
 <tr>
 <td>Ansible ネットワーク自動化 - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1s336icuospEPuCkbO6KAtGU0szVXHodGJrhNlCvi2PU/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/114_nyRhafsL5o7D8ADawHJKgvy7IpSFf3eVLRWNV5gU/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=aeecd93f-be31-4a10-8ad8-5e53f51ef7be">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible ネットワーク自動化 - 201</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1JJF2K2q38xJCp5o8ynmCH_C7tdsjI9odELTnbCR6cBM/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1cHAuyt4p4r0vKmoi5w2svnI0GGyjRkTycjgwY_uFPJs/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=ad2c882f-93e7-4bd8-b7bb-e8abb05b7005">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible ネットワーク自動化 - 301</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1adExEpewrK6WnQ59Vs_cEg8KtML2ZPgIFyDT_WAkLiw/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1KIwPMXy8fKFkoB0kyXj_yQpVkYDcNuwNKz66Ldf_8BA/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f40a3f3a-0de9-40fb-b96a-7bcccde8ff3d">Content Center</a></td>
 </tr>
 </tbody>
