@@ -96,17 +96,17 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 </thead>
 <tbody>
 <tr>
-<td>イベントドリブン Ansible - 101</td>
+<td>Event-Driven Ansible - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Uf1Y42p8WfQnBQH-5ZjMXzQezdYj2UW6WcDfrbGu1fQ/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>イベントドリブン Ansible - 201</td>
+<td>Event-Driven Ansible - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/18FsymQlk8cCBENHsh7NXyqvXtatfGOr8Nl761r1rU4w/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>イベントドリブン Ansible - 301</td>
+<td>Event-Driven Ansible - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1xQyUGRGqu-qpjZVRKrJvN3cbVLoFzZ0BP7ED1VOyuX4/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
