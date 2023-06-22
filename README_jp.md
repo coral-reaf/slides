@@ -6,7 +6,7 @@
 <p><a href="https://ansible.github.io/slides">本サイト</a></p>
 
 - [一般](#一般)
-- [EDA - イベントドリブン Ansible](#eda---イベントドリブン-ansible)
+- [EDA - Event-Driven Ansible](#eda---Event-Driven-ansible)
 - [エッジの自動化](#エッジの自動化)
 - [ハイブリットクラウドの自動化](#ハイブリッドクラウドの自動化)
   - [パブリッククラウド](#パブリッククラウド)
@@ -84,7 +84,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 </tbody>
 </table>
 
-# EDA - イベントドリブン Ansible
+# EDA - Event-Driven Ansible
 
 <table>
 <thead>
