@@ -97,12 +97,12 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <tbody>
 <tr>
 <td>Event-Driven Ansible - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1Uf1Y42p8WfQnBQH-5ZjMXzQezdYj2UW6WcDfrbGu1fQ/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1hr2ocZPAQC8KzFyo5_ugxe9tfdiBnjZlcCGs8krST5A/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
 <td>Event-Driven Ansible - 201</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/18FsymQlk8cCBENHsh7NXyqvXtatfGOr8Nl761r1rU4w/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/128f9ropoc2IgD4AFPelQRR3axv6T8Wn6FezxjYUEzeE/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
