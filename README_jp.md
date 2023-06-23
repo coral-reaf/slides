@@ -107,7 +107,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 </tr>
 <tr>
 <td>Event-Driven Ansible - 301</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1xQyUGRGqu-qpjZVRKrJvN3cbVLoFzZ0BP7ED1VOyuX4/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1fEP54hMx45zHmXmmUvW5CPCyXGbN0GsWaFJ2ntzVs3k/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
