@@ -102,12 +102,12 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 </tr>
 <tr>
 <td>AAP 2.3 Overview (Nov 29, 2022)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1_YBMjRGvqNx5PE_Wtq9dO-_YC2xQX5cleW-0Cy-HKrk/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/17D1UFeVktAE_58ebYWKZQhRn1BoW56nScnD4uqZCFCo">Google Source</a></td>
 <td>Coming Soon!</td>
 </tr>
 <tr>
 <td>AAP 2.2 Overview (May 22, 2022)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/16zfS_r6-fIaBUxkmAMAinhcO7gRKC6DXesIhFCKWDxU/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1LPqtumVuMUZ9sYGLbL9-XkM-XXD3DJb5Rh-MgjGEK78">Google Source</a></td>
 <td>Coming Soon!</td>
 </tr>
 </tbody>
