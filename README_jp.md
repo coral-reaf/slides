@@ -328,6 +328,11 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJI
 <td><a target="_blank" href="https://docs.google.com/presentation/d/12oaOPa7AM1v1GhfH2FGPUe6CHK3j0OoFI14FTbodkuM/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
+<tr>
+<td>Ansible Lightspeed with IBM Watson Code Assistant Technical Preview Overview (Jun 26, 2023)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1kp3neTC9DRShtGM43LQ9nE-wZZOcfY7hXV0UdNx8QSc/">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
 </tbody>
 </table>
 
