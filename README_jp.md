@@ -45,11 +45,6 @@
 <td>Coming Soon!</td>
 </tr>
 <tr>
-<td>AE レベル 1 ピッチデッキ</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1ROCPH_M5EVS4W_OfV5g1rNki_eVzVCTzfZaW58sSRJQ/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="">Content Center</a></td>
-</tr>
-<tr>
 <td>Ansible Automation Platform: サブスクリプションの価値</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1wFt85sIqBAUE_T1AoY8pLcC5hl_9FDWafUm_d2MX920/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
