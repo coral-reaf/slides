@@ -83,7 +83,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <td>洗練されたコストセービングスプレッドシート: 
 スプレッドシートを使用したハイレベルな時間およびコスト削減</td>
 <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1XI3zKIAI4uvLY0rbYDeacatSFj38mIwjng4ZN3Wwvyg/edit?usp=sharing">Spreadsheet Google Source</a>
-and <a target="_blank" href="https://docs.google.com/presentation/d/1vznrX8YMtJIrtQOfNzyDs4wHGQVC-0mlyi8MaSvb-UI/edit?usp=sharing">Deck Google Source</a></td>
+and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5x6y373G18FB99Tqn3hcyhOBHSAp8BwL4">Deck Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 </tbody>
