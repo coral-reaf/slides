@@ -32,7 +32,7 @@
 <tr>
 <td>Ansible Automation Platform ピッチデッキfor AE (2023 Version)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1lcy0P8f5WBwKJeLtXrscKcGSc262N14MFqtGdJNfot8">Google Source</a></td>
-<td><a target="_blank" href="">Content Center</a></td>
+<td>Coming Soon!</td>
 </tr>
 <tr>
 <td>テクニカルロードマップ</td>
