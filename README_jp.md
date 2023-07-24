@@ -30,6 +30,11 @@
 </thead>
 <tbody>
 <tr>
+<td>Ansible Automation Platform ピッチデッキfor AE (2023 Version)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1lcy0P8f5WBwKJeLtXrscKcGSc262N14MFqtGdJNfot8">Google Source</a></td>
+<td><a target="_blank" href="">Content Center</a></td>
+</tr>
+<tr>
 <td>テクニカルロードマップ</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1-QU4vsbJPTw3iobJy84TdpWoLv9KbTZQ_joUuCWfJgs/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="">Content Center</a></td>
