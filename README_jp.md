@@ -50,6 +50,11 @@
 <td>Coming soon!</td>
 </tr>
 <tr>
+<td>Ansible Validated Content</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1ERBB6kR8SSybR1AsopcCSkXgwIi8HzGJ-5lCFWZDwts">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
 <td>Red Hat Insights と Red Hat Ansible Automation Platform</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1s7s0Pw8YuiUyjGCxxQkQ0lutF69d2sXujYDWTXWrxiE/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
