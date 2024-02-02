@@ -34,7 +34,7 @@
 </thead>
 <tbody>
 <tr>
-<td>2023年11月1日 - <a target="_new" href="https://docs.google.com/presentation/d/1S8GJ7SfodsGbaFT8xOcZHRwNEbrVFTI0mjCfdbepmj8/">DEMO: Ansible Lightspeed Content Kit
+<td>2023年11月1日 - <a target="_new" href="https://docs.google.com/presentation/d/1S8GJ7SfodsGbaFT8xOcZHRwNEbrVFTI0mjCfdbepmj8/">Deck: Ansible Lightspeed Content Kit
 </a></td>
 </tr>
 <tr>
@@ -378,6 +378,10 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible Lightspeed with IBM Watson Code Assistant 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/15S-ls1E-HFeDPUXDWCojmYzzN2dcrSNxV2vW46NxdTk/">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<td>Ansible Lightspeed Sales Enablement Overview</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1LZTrVoqYFk_0e51tPXZW-qkEhA5rwk_xl_Ik_6gWCOk/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
